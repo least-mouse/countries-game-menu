@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//test
+
 int int_choice = 0;
 char char_choice[3];
 char bi[3];
